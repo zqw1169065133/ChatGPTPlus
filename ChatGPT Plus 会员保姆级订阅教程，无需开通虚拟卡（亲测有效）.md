@@ -7,7 +7,7 @@ https://www.paymentone.shop/
 
 第二步 验证卡密（网址：https://paymentone.online/）
 点击开始充值
-(2.png)
+media/2.png
 输入客服给的卡密，之后验证卡密
 
 点击前往登录，会跳转到GPT官方登录页面
