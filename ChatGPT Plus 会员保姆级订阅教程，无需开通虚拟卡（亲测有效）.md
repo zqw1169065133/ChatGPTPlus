@@ -6,11 +6,12 @@ https://www.paymentone.shop/
 闲鱼小铺：全球通用礼品卡（认准头像）
 
 微        信：w-sky13
+
 企业微信：<img src="media/1.jpg" width="10%">（推荐在企业微信联系，任意选择淘宝闲鱼下单即可）
 
 第二步 验证卡密（网址：https://paymentone.online/）
 点击开始充值
-![图片描述](./media/2.png)
+<img src="media/2.png" width="40%">
 输入客服给的卡密，之后验证卡密
 ![图片描述](./media/3.png)
 点击前往登录，会跳转到GPT官方登录页面
