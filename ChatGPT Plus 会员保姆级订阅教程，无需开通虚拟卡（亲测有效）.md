@@ -17,43 +17,44 @@ https://www.paymentone.shop/
 
 输入客服给的卡密，之后验证卡密
 
-![图片描述](./media/3.png)
+<img src="media/3.png" width="40%">
 
 点击前往登录，会跳转到GPT官方登录页面
 
-![图片描述](./media/4.png)
+<img src="media/4.png" width="40%">
 
 第三步登录账号
 
 登录成功后检查自己的账号是否过期，未过期的不能升级
 
-![图片描述](./media/5.png)
+<img src="media/5.png" width="40%">
 
 回到之前的页面，点击我已登录
 
-![图片描述](./media/6.png)
+<img src="media/6.png" width="40%">
 
 点击点我获取充值密钥
 
-![图片描述](./media/7.png)
+<img src="media/7.png" width="40%">
 
 复制所有的内容
 
-![图片描述](./media/8.png)
+<img src="media/8.png" width="40%">
 
 粘贴到此处，并点击核对账户
-![图片描述](./media/9.png)
+
+<img src="media/9.png" width="40%">
 
 第四步 确认充值
 
 点击核对账户后核对一下邮箱号是否对应，点击我确认以上信息无误
 
-![图片描述](./media/10.png)
+<img src="media/10.png" width="40%">
 
 等待几秒钟，显示充值成功
 
-![图片描述](./media/11.png)
+<img src="media/11.png" width="40%">
 
 回到GPT官方页面刷新就会发现充值成功了
 
-![图片描述](./media/12.png)
+<img src="media/12.png" width="60%">
