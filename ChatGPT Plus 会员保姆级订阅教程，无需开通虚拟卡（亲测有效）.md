@@ -3,7 +3,7 @@ https://www.paymentone.shop/
 淘宝小店：全球通用礼品卡
 闲鱼小铺：全球通用礼品卡（认准头像）
 微        信：w-sky13
-企业微信：![图片描述](<img src="media/1.jpg" width="50%">)（推荐在企业微信联系，任意选择淘宝闲鱼下单即可）
+企业微信：<img src="media/1.jpg" width="50%">（推荐在企业微信联系，任意选择淘宝闲鱼下单即可）
 
 第二步 验证卡密（网址：https://paymentone.online/）
 点击开始充值
